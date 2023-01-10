@@ -45,6 +45,8 @@ $(document).ready(function(){
     if(localStorage.getItem("cssContent") !== null){
         $("#cssBody").val(localStorage.getItem("cssContent"));
     }
+
+    updateOutput()
 });
 
 // to change the size everytime the window size of browser change
