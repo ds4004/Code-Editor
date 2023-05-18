@@ -1,7 +1,7 @@
 
 # Code-Editor
 
-Developers can utilize this code editor to write and modify HTML and CSS to develop web apps more quickly and easily.
+This code editor empowers front-end developers to efficiently write and customize HTML and CSS, accelerating the development of web applications with ease.
 
 
 ## 🚀 About Me
